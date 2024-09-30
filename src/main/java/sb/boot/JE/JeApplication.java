@@ -10,5 +10,4 @@ public class JeApplication {
 		SpringApplication.run(JeApplication.class, args);
 	}
 
-
 }
